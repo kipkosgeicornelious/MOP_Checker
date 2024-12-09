@@ -7,7 +7,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kimutai004/Health_Checker.git
+   git clone git@github.com:kipkosgeicornelious/Mop_Checker.git
    ```
 
 2. Apply migrations:
